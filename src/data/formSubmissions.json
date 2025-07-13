@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "email": "sarah.chen@email.com",
+    "location": "San Francisco, CA",
+    "experience": "Senior Software Engineer",
+    "skills": ["React", "Node.js", "TypeScript", "AWS"],
+    "education": "MS Computer Science - Stanford",
+    "yearsExp": 6,
+    "previousCompany": "Google",
+    "portfolio": "github.com/sarahchen",
+    "summary": "Full-stack engineer with expertise in scalable web applications",
+    "score": 95,
+    "diversity": "Asian-American, Female"
+  }
+]
